@@ -1,0 +1,29 @@
+(See figure for used model orientation)
+
+Printer model: Ultimaker 2+ Connect, The Netherlands
+
+Printer settings for Generic PLA filament with 0.4 mm nozzle were:
+
+Quality: Fine (0.1 mm)
+
+Wall/top/bottom thickness: 0.8 mm
+
+Infill density: 40 %
+
+Infill pattern: Grid
+
+Printing temperature: 210 degrees Celsius
+
+Build plate temperature: 60 degrees Celsius
+
+Print speed: 50 mm/s
+
+Support pattern (everywhere): Zig Zag 
+
+Support overhang angle: 50 degrees
+
+Support interface: Support roof enabled
+
+Build plate adhesion type: Brim
+
+
